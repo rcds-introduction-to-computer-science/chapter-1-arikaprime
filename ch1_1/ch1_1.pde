@@ -9,3 +9,13 @@
 // - stroke()
 // - fill()
 //
+
+
+ellipse(30,30,20,20);
+ellipse(70,30,20,20);
+ellipse(50,50,50,50);
+
+fill(0);
+ellipse(40,50,5,5);
+ellipse(60,50,5,5);
+ellipse(50,55,10,5);
